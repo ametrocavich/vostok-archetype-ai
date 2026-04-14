@@ -1,0 +1,9 @@
+[mod]
+name="AI Overhaul"
+id="vostok-ai-overhaul"
+version="0.1.0"
+priority=50
+
+[autoload]
+VostokAIOverhaul="res://VostokAIOverhaul/Main.gd"
+VostokAIConfig="res://VostokAIOverhaul/Config.gd"

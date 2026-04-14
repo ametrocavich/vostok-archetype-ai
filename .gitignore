@@ -1,0 +1,25 @@
+# Godot
+.godot/
+*.import
+export_presets.cfg
+
+# Build artifacts
+*.vmz
+*.pck
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dev notes (not part of the mod)
+SESSION-PROMPT.md
+CLAUDE.md
+
+# Claude
+.claude/
